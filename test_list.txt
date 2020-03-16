@@ -1,3 +1,5 @@
-IXI002
-IXI012
-IXI013
+287248_T1_conformed.nii.gz
+204521_T1_conformed.nii.gz
+599671_T1_conformed.nii.gz
+133019_T1_conformed.nii.gz
+912447_T1_conformed.nii.gz
